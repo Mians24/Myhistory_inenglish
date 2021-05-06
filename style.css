@@ -34,7 +34,12 @@ p{
 }
 
 .images{
-    width: 10rem;
+    width: 100rem;
     height: 100rem;
     margin: auto;
+}
+
+.per_pic{
+    width: 45rem;
+    height: 60rem;
 }
